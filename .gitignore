@@ -1,4 +1,6 @@
 dataset
 models
+saved_models
+backup
 __pycache__
 .ipynb_checkpoints
